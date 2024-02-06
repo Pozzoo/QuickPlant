@@ -1,0 +1,4 @@
+name: quickPlant
+version: '${project.version}'
+main: com.github.pozzoo.quickplant.QuickPlant
+api-version: '1.20'
